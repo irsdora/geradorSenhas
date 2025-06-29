@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/39fed896-81bd-40a1-81d5-0faf981244ef)
 
 
-# 🎯 Projetos Python - Nível Iniciante
+# 🎯 Projetos Python 
 
 ![image](https://github.com/user-attachments/assets/1be0d00f-93f9-4416-a666-a8d50db23a25)
 
